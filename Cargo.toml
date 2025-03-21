@@ -1,0 +1,10 @@
+[package]
+name = "anagrammar"
+version = "0.1.0"
+authors = ["Nan0Scho1ar <scorch267@gmail.com>"]
+license = "MIT"
+edition = "2024"
+
+[dependencies]
+crossterm = "0.28.1"
+ratatui = "0.29.0"
